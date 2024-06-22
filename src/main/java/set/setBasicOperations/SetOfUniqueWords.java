@@ -60,7 +60,5 @@ public class SetOfUniqueWords {
         setOfUniqueWords.removeWord("Biel");
         setOfUniqueWords.removeWord("Efraim");
         System.out.println("Coleção apos a segunda remoção => " + setOfUniqueWords);
-
-
     }
 }
